@@ -1,0 +1,14 @@
+nav .logo img {
+    width: 150px;
+}
+nav#top-bar, #btn {
+    background-color: #3fbbc0 !important;
+    border-color: #3fbbc0 !important;
+}
+@media (max-width: 576px) {
+  .logo img, 
+  #main-bar #btn {
+  width: 120px !important;
+  font-size: x-small;
+  }
+}

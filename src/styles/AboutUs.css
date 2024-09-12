@@ -1,0 +1,14 @@
+
+#horizontal-card svg{
+  font-size: 3rem !important;
+}
+#video-frame div div{
+  width: 4rem;
+  height: 4rem;
+  background-color: #3fbbc0;
+  border: 5px solid #3fbbc0 !important;
+}
+.width-45 svg{
+  width: 30px !important;
+  height: 30px !important;
+}
